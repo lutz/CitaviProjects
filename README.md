@@ -17,6 +17,7 @@ If you have problems feel free to open an issue in the corresponding repository.
 - [AutoRefAddon](https://github.com/lutz/AutoRefAddon)
 - [CopyTextOfSelectedAnnotationAddon](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon)
 - [DocFetcherSelectionAddon](https://github.com/lutz/DocFetcherSelectionAddon)
+- [FilterOpenProjectsAddon](https://github.com/lutz/FilterOpenProjectsAddon)
 - [FormatCodeAddon](https://github.com/lutz/FormatCodeAddon)
 - [GoToPdfPageAddon](https://github.com/lutz/GoToPdfPageAddon)
 - [HideKnowledgeItemFileFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemFileFormHelpBoxAddon)
